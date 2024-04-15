@@ -1,5 +1,8 @@
 # Flappy Bird 2D Game
 
+![Flappy Bird](screenshots/1.png)
+
+
 ## Description
 This is a 2D clone of the popular game Flappy Bird. The player controls a bird and must navigate it through a series of pipes without hitting them. Each successful pass through a pair of pipes earns the player one point. The game ends if the bird collides with a pipe or if it falls below the screen.
 
